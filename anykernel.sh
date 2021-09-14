@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T_(Remodded)_RMX2151/RMX2161_ksauraj@xda
+kernel.string=X_e_N_o_N_(BETA)_RMX2151/RMX2161_ksauraj@xda
 do.devicecheck=1
 do.modules=0
 do.systemless=1
