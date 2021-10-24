@@ -423,16 +423,36 @@ if [ -f version ]; then
   ui_printfile version;
   ui_print " ";
 fi;
+ui_print "••••••••••••••••••••••••••••••••••••••••";
+sleep 0.2
 ui_print ".------..------..------..------..------.";
+sleep 0.2
 ui_print "|X.--. ||E.--. ||N.--. ||O.--. ||N.--. |";
+sleep 0.2
 ui_print "| :/\: || (\/) || :(): || :/\: || :(): |";
+sleep 0.2
 ui_print "| (__) || :\/: || ()() || :\/: || ()() |";
+sleep 0.2
 ui_print "| '--'X|| '--'E|| '--'N|| '--'O|| '--'N|";
+sleep 0.2
 ui_print ".------..------..------..------..------.";
-ui_print "|-------Thanks To @sarthakroy2002------|";
+sleep 0.2
+ui_print "••••••••••••••••••••••••••••••••••••••••";
+sleep 1
+ui_print "••••••••••••••••••••••••••••••••••••••••";
+sleep 0.2
 ui_print "|--------------------------------------|";
+sleep 0.2
+ui_print "|------Thanks To @sarthakroy2002-------|";
+sleep 0.2
 ui_print "|AnyKernel3 by osm0sis @ xda-developers|";
+sleep 0.2
+ui_print "|-----------Made By KSauraj------------|";
+sleep 0.2
 ui_print "|--------------------------------------|";
+sleep 0.2
+ui_print "••••••••••••••••••••••••••••••••••••••••";
+sleep 0.2
 setup_env;
 
 do_devicecheck;
